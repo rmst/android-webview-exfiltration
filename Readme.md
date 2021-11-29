@@ -1,5 +1,5 @@
 
-Loads HTML+JS+CSS app via local files into an Android webview to test whether JS code inside of the webview can trigger network traffic and potentially exfiltrate information that might have been put into the Webview via a Java interface.
+Loads a local version of https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/ into an Android webview to test whether JS code inside of the webview can trigger network traffic and potentially exfiltrate information that might have been put into the Webview via a Java interface.
 
 ### Test Results
 
